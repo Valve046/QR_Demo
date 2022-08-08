@@ -1,0 +1,13 @@
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\bin\x64\Debug\QR_Demo.exe.config
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\bin\x64\Debug\QR_Demo.exe
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\bin\x64\Debug\QR_Demo.pdb
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\bin\x64\Debug\QR_Demo.xml
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\bin\x64\Debug\SATOPrinterAPI.dll
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.Form1.resources
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.Resources.resources
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.vbproj.GenerateResource.cache
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.vbproj.CoreCompileInputs.cache
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.vbproj.CopyComplete
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.exe
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.xml
+C:\Users\57010\Desktop\git\QR_Demo\QR_Demo\obj\x64\Debug\QR_Demo.pdb
